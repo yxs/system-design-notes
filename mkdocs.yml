@@ -1,9 +1,9 @@
-site_name: XueSong's <replace>
+site_name: XueSong's System Design Notes
 site_description: Simply-to Understand, Devote Yourself!
 site_author: XueSong Ye
 
-repo_name: 'yxs/<replace>'
-repo_url: 'https://github.com/yxs/<replace>'
+repo_name: 'yxs/system-design-notes'
+repo_url: 'https://github.com/yxs/system-design-notes'
 
 theme:
   name: material
